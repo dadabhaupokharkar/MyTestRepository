@@ -1,2 +1,2 @@
 # MyTestRepository
-Created to understand the GITHUB
+Initially Created to understand the GITHUB. Now Understanding the Branching strategies on GITHub
